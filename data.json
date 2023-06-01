@@ -4,9 +4,10 @@
 	"guion": "Andrew Dominil",
 	"reparto": ["Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale", "Julianne Nicholson", "Caspar Phillipson",  "Evan Williams", "Tobu Huss", "Chris Lemmon", "Dan Butler", "Darren Dillahunt", "Lucy DeVito"],
 	"genero": "Drama, Drama sicológico, Biografico, Años 50, Años 60",
-	"galardones": "2022: Premio Oscar: Nominada mejor actriz (Ana de Armas), 2022: Globos de Oro: Nominada a mejor actriz drama (Ana de Armas), 2022 Premios Bafta: Nominada a mejor actriz (Ana de Armas)",
+	"galardones": ["2022: Premio Oscar: Nominada mejor actriz (Ana de Armas)", "2022: Globos de Oro: Nominada a mejor actriz drama (Ana de Armas)", "2022 Premios Bafta: Nominada a mejor actriz (Ana de Armas)"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"]
+	"categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"],
+	"img": ["https://github.com/MasterIngenio/Clase-11-data.Json/blob/main/img-0.jpg", "https://github.com/MasterIngenio/Clase-11-data.Json/blob/main/img-0.1.jpg"]
 },
 {
 
@@ -14,37 +15,39 @@
 	"director": "Adam Mckay",
 	"guion": "Adam Mckay",
 	"reparto": ["Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill", "Rob Morgan, Mark Rylance", "Tyler Perry", "Timothée CHalamet", "Ron Perlman", "Ariana Grande", "KId Cudi", "Tomer Sisely"],
-	"genero": "Comedia, Drama, Ciencia Ficción, Satira, Catasrofes, Fin del mundo",
-	"galardones": "2021: Premios Oscar: Nominada a mejor pelicula, Guion Original, Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion",
+	"genero": ["Comedia", "Drama", "Ciencia Ficción", "Satira", "Catasrofes", "Fin del mundo"],
+	"galardones": ["2021: Premios Oscar: Nominada a mejor pelicula, Guion Original, Música y Montaje", "2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 },
 {	
-	"titulo": "365 DNI",
-	"director": ["Barbara Bialowas", "Tomasz Mandes"],
-	"guion": "Tomasz Klimala",
-	"reparto": "Anna-Maria Sieklucka, Michele Morrone, Grazyna Szapolowska",
-	"genero": "Drama, Erotico, Reparto",
-	"galardones": "2021: Premios Oscar: Nominada a mejor pelicula, Guion Original, Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion",
+	"titulo": "The Ballad of Buster Scrugs",
+	"director": ["Ethan Coen", "Joel Coen"],
+	"guion": ["Ethan Coen", "Joel Coen"],
+	"reparto": ["Tim Blake Nelson", "Zoe Kazan", "Tom Waits","James Franco"],
+	"genero": ["Drama", "Western", "Comedia Músical"],
+	"galardones": ["2021: Premios Oscar: Nominada a mejor pelicula, Guion Original", "Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"]
+	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"img": 
 },
 {
-	"titulo": "Una Buena Receta",
-	"director": "Jhon Wells",
-	"guion": "Steve Knigth",
-	"reparto": ["Bradley Cooper", "Sienna Miller", "Omar Sy", "Daniel Brühl", "Matthew Rhys", "Lily James", "Uma Thurman", "Alicia Vikander", "Emma Thompson", "Sarah Greene", "Ricardo Scamarcio", "Christopher Heskey", "Bermard Bulley"],
-	"genero": "Drama, Erotico, Reparto",
+	"titulo": "Wiplash",
+	"director": "Damien Chazelle",
+	"guion": "Damien Chazelle",
+	"reparto": ["Milles Teller","J.K Simmons","Melissa Benoist"],
+	"genero": ["Drama", "Música", "Jazz"],
+	"galardones": "2014: 3 Premios Oscar: Mejor actor de reparto (J.K Simmons) ",
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
+	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
 },
 {	
 	"titulo": "Tick,Tick...Boom!",
 	"director": "Lin-Manuel Miranda",
 	"guion": "Steve Levenson",
 	"reparto": ["Andrew Garfield", "Alexandra Shipp", "Robin de Jesus", "Vanesa Hudgens", "Joshua Henry", "Bradley Whitford", "Judith Light", "Jordan Fisher", "David Iacono,"],
-	"genero": "Drama, Erotico, Reparto",
-	"galardones": "2021: Premios OScar: Nominada a mejor actor principal (Garfield) y montaje, 2021: Globos de oro: Mejor actor comedia/musical(Garfield), 2021: American Film Institute (AFI): Top 10 - Mejores películas del año",
+	"genero": ["Músical", "Drama", "Biografico"],
+	"galardones": ["2021: Premios OScar: Nominada a mejor actor principal (Garfield) y montaje", "2021: Globos de oro: Mejor actor comedia/musical(Garfield)", "2021: American Film Institute (AFI): Top 10 - Mejores películas del año"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 }
