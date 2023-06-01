@@ -6,7 +6,7 @@
 	"Genero": "Drama, Drama sicológico, Biografico, Años 50, Años 60",
 	"Galardones": "2022: Premio Oscar: Nominada mejor actriz (Ana de Armas), 2022: Globos de Oro: Nominada a mejor actriz drama (Ana de Armas), 2022 Premios Bafta: Nominada a mejor actriz (Ana de Armas)",
 	"Reseña Personal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"Categoria" "Sola(o)" "😎" "Con pareja" "❤" "Pinche" "😈"
+	"Categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"]
 },
 {
 
@@ -17,7 +17,7 @@
 	"Genero": "Comedia, Drama, Ciencia Ficción, Satira, Catasrofes, Fin del mundo",
 	"Galardones": "2021: Premios Oscar: Nominada a mejor pelicula, Guion Original, Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion",
 	"Reseña Personal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"Categoria": "Sola(o)""😎""Con pareja""❤""Familia""🏡"
+	"Categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 },
 {	
 	"Titulo": "365 DNI",
@@ -27,7 +27,7 @@
 	"Genero": "Drama, Erotico, Reparto",
 	"Galardones": "2021: Premios Oscar: Nominada a mejor pelicula, Guion Original, Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion",
 	"Reseña Personal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"Categoria" "Sola(o)" "😎" "Con pareja" "❤" "Pinche" "😈"
+	"Categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"]
 },
 {
 	"Titulo": "Una Buena Receta",
@@ -36,7 +36,7 @@
 	"Reparto": "Bradley Cooper, Sienna Miller, Omar Sy, Daniel Brühl, Matthew Rhys, Lily James, Uma Thurman, Alicia Vikander, Emma Thompson, Sarah Greene, Ricardo Scamarcio, Christopher Heskey, Bermard Bulley",
 	"Genero": "Drama, Erotico, Reparto",
 	"Reseña Personal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"Categoria" "Sola(o)" "😎" "Con pareja" "❤" "Familia" "🏡"
+	"Categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 },
 {	
 	"Titulo": "Tick,Tick...Boom!",
@@ -46,7 +46,7 @@
 	"Genero": "Drama, Erotico, Reparto",
 	"Galardones": "2021: Premios OScar: Nominada a mejor actor principal (Garfield) y montaje, 2021: Globos de oro: Mejor actor comedia/musical(Garfield), 2021: American Film Institute (AFI): Top 10 - Mejores películas del año",
 	"Reseña Personal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"Categoria" "Sola(o)" "😎" "Con pareja" "❤" "Familia" "🏡"
+	"Categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 }
 
 
