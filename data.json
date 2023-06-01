@@ -2,7 +2,7 @@
 	"titulo": "Blonde",
 	"director": "Andrew Dominik",
 	"guion": "Andrew Dominil",
-	"repartoprincipal": "Ana de Armas, Adrien Brody, Xavier Samuel, Sara Paxton, Bobby Cannavale, Julianne Nicholson, Caspar Phillipson y Evan Williams, Tobu Huss, Chris Lemmon, Dan Butler, Darren Dillahunt, Lucy DeVito",
+	"repartoprincipal": ["Ana de Armas", "Adrien Brody", "Xavier Samue", "Sara Paxton", "Bobby Cannavale", "Julianne Nicholson", "Caspar Phillipson", "Evan Williams", "Tobu Huss", "Chris Lemmon", "Dan Butler", "Darren Dillahunt", "Lucy DeVito"],
 	"genero": "Drama, Drama sicológico, Biografico, Años 50, Años 60",
 	"galardones": "2022: Premio Oscar: Nominada mejor actriz (Ana de Armas), 2022: Globos de Oro: Nominada a mejor actriz drama (Ana de Armas), 2022 Premios Bafta: Nominada a mejor actriz (Ana de Armas)",
 	"resenapersonal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
