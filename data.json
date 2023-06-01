@@ -28,8 +28,8 @@
 	"genero": ["Drama", "Western", "Comedia Músical"],
 	"galardones": ["2021: Premios Oscar: Nominada a mejor pelicula, Guion Original", "Música y Montaje, 2021: Globos de Oro: Nominada a Mejor película comedia, actor, actriz y guion"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
-	"img": 
+	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
+	
 },
 {
 	"titulo": "Wiplash",
@@ -39,7 +39,7 @@
 	"genero": ["Drama", "Música", "Jazz"],
 	"galardones": "2014: 3 Premios Oscar: Mejor actor de reparto (J.K Simmons) ",
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"]
 },
 {	
 	"titulo": "Tick,Tick...Boom!",
